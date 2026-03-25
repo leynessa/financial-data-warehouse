@@ -137,9 +137,6 @@ FROM reporting.partner_monthly_metrics;
 
 
 --- assign the fees
-
-
-
 CREATE TABLE reporting.compensation_fee_assignment AS
 
 SELECT 
