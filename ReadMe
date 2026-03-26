@@ -7,11 +7,4 @@
 - pgAdmin  database management
 - Tableau Public  visualisations
 
-## Architecture
-
-The data warehouse follows the Inmon approach with three layers:
-
-- **Staging**  raw source data loaded as-is
-- **EDW**  cleaned and normalised data in third normal form
-- **Reporting** aggregated business calculations
 
